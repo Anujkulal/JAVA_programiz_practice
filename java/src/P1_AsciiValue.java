@@ -1,4 +1,4 @@
-public class AsciiValue {
+public class P1_AsciiValue {
     public static void main(String[] args) {
         char ch = 'd';
         // int ascii = ch;
